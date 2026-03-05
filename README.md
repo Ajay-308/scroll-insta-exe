@@ -52,8 +52,13 @@ Automate the scroll. Focus on what matters.
 
 ## ⚠ Disclaimer
 
-This project is built for educational purposes only.  
-Make sure you follow Instagram’s terms of service while using automation tools.
+This project is built for educational and fun purposes only.
+
+Do not use your primary Instagram account while testing this tool.
+It is recommended to use a secondary/test account.
+
+Users are responsible for complying with Instagram’s Terms of Service.
+The author is not responsible for any misuse or for any suspension or ban of your Instagram account.
 
 ---
 
